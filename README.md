@@ -1,4 +1,4 @@
-# Curso_Orienta-aoObjetos
+# Curso OrientacaoObjetos
 
 Primeiros passos em Orientação a Objetos comparaçao com logica estrutural e evoluçao
 
